@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 ChatInterface <a name="about-project"></a>
+# 📖 Jobs API <a name="about-project"></a>
 
-**Jobs API** is a simple Node.js REST API that allows a job seeker to keep track of their job applications and the various interviewing stages.
+**Jobs API** is a simple Node.js REST API that allows a job seeker to manage their job applications and keep track of the various interviewing stages of the jobs.
 
 ## 🛠 Built With <a name="built-with">Node.js</a>
 
