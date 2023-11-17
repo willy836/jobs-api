@@ -17,7 +17,6 @@ const errorHandlerMiddleware = require("./middleware/error-handler");
 const authenticateUser = require("./middleware/authentication");
 
 app.use(express.json());
-// extra packages
 
 // routes
 app.use("/api/v1/auth", authRouter);
